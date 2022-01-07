@@ -1,0 +1,224 @@
+fileFormatVersion: 2
+guid: 7a4ea91161e24aa4ab1dca017732b1ec
+ModelImporter:
+  serializedVersion: 23
+  fileIDToRecycleName:
+    100000: //RootNode
+    100002: Sphere
+    100004: Sphere_cell
+    100006: Sphere_cell.001
+    100008: Sphere_cell.002
+    100010: Sphere_cell.003
+    100012: Sphere_cell.004
+    100014: Sphere_cell.005
+    100016: Sphere_cell.006
+    100018: Sphere_cell.007
+    100020: Sphere_cell.008
+    100022: Sphere_cell.009
+    100024: Sphere_cell.010
+    100026: Sphere_cell.011
+    100028: Sphere_cell.012
+    100030: Sphere_cell.013
+    100032: Sphere_cell.014
+    100034: Sphere_cell.015
+    100036: Sphere_cell.016
+    100038: Sphere_cell.017
+    100040: Sphere_cell.018
+    100042: Sphere_cell.019
+    100044: Sphere_cell.020
+    100046: Sphere_cell.021
+    100048: Sphere_cell.022
+    100050: Sphere_cell.023
+    100052: Sphere_cell.024
+    400000: //RootNode
+    400002: Sphere
+    400004: Sphere_cell
+    400006: Sphere_cell.001
+    400008: Sphere_cell.002
+    400010: Sphere_cell.003
+    400012: Sphere_cell.004
+    400014: Sphere_cell.005
+    400016: Sphere_cell.006
+    400018: Sphere_cell.007
+    400020: Sphere_cell.008
+    400022: Sphere_cell.009
+    400024: Sphere_cell.010
+    400026: Sphere_cell.011
+    400028: Sphere_cell.012
+    400030: Sphere_cell.013
+    400032: Sphere_cell.014
+    400034: Sphere_cell.015
+    400036: Sphere_cell.016
+    400038: Sphere_cell.017
+    400040: Sphere_cell.018
+    400042: Sphere_cell.019
+    400044: Sphere_cell.020
+    400046: Sphere_cell.021
+    400048: Sphere_cell.022
+    400050: Sphere_cell.023
+    400052: Sphere_cell.024
+    2100000: No Name
+    2300000: Sphere
+    2300002: Sphere_cell
+    2300004: Sphere_cell.001
+    2300006: Sphere_cell.002
+    2300008: Sphere_cell.003
+    2300010: Sphere_cell.004
+    2300012: Sphere_cell.005
+    2300014: Sphere_cell.006
+    2300016: Sphere_cell.007
+    2300018: Sphere_cell.008
+    2300020: Sphere_cell.009
+    2300022: Sphere_cell.010
+    2300024: Sphere_cell.011
+    2300026: Sphere_cell.012
+    2300028: Sphere_cell.013
+    2300030: Sphere_cell.014
+    2300032: Sphere_cell.015
+    2300034: Sphere_cell.016
+    2300036: Sphere_cell.017
+    2300038: Sphere_cell.018
+    2300040: Sphere_cell.019
+    2300042: Sphere_cell.020
+    2300044: Sphere_cell.021
+    2300046: Sphere_cell.022
+    2300048: Sphere_cell.023
+    2300050: Sphere_cell.024
+    3300000: Sphere
+    3300002: Sphere_cell
+    3300004: Sphere_cell.001
+    3300006: Sphere_cell.002
+    3300008: Sphere_cell.003
+    3300010: Sphere_cell.004
+    3300012: Sphere_cell.005
+    3300014: Sphere_cell.006
+    3300016: Sphere_cell.007
+    3300018: Sphere_cell.008
+    3300020: Sphere_cell.009
+    3300022: Sphere_cell.010
+    3300024: Sphere_cell.011
+    3300026: Sphere_cell.012
+    3300028: Sphere_cell.013
+    3300030: Sphere_cell.014
+    3300032: Sphere_cell.015
+    3300034: Sphere_cell.016
+    3300036: Sphere_cell.017
+    3300038: Sphere_cell.018
+    3300040: Sphere_cell.019
+    3300042: Sphere_cell.020
+    3300044: Sphere_cell.021
+    3300046: Sphere_cell.022
+    3300048: Sphere_cell.023
+    3300050: Sphere_cell.024
+    4300000: Sphere_cell.024
+    4300002: Sphere_cell.023
+    4300004: Sphere_cell.022
+    4300006: Sphere_cell.021
+    4300008: Sphere_cell.020
+    4300010: Sphere_cell.019
+    4300012: Sphere_cell.018
+    4300014: Sphere_cell.017
+    4300016: Sphere_cell.016
+    4300018: Sphere_cell.015
+    4300020: Sphere_cell.014
+    4300022: Sphere_cell.013
+    4300024: Sphere_cell.012
+    4300026: Sphere_cell.011
+    4300028: Sphere_cell.010
+    4300030: Sphere_cell.009
+    4300032: Sphere_cell.008
+    4300034: Sphere_cell.007
+    4300036: Sphere_cell.006
+    4300038: Sphere_cell.005
+    4300040: Sphere_cell.004
+    4300042: Sphere_cell.003
+    4300044: Sphere_cell.002
+    4300046: Sphere_cell.001
+    4300048: Sphere_cell
+    4300050: Sphere
+  externalObjects: {}
+  materials:
+    importMaterials: 1
+    materialName: 0
+    materialSearch: 1
+    materialLocation: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    resampleCurves: 1
+    optimizeGameObjects: 0
+    motionNodeName: 
+    rigImportErrors: 
+    rigImportWarnings: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    importAnimatedCustomProperties: 0
+    importConstraints: 0
+    animationCompression: 1
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    extraUserProperties: []
+    clipAnimations: []
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 0.5
+    meshCompression: 0
+    addColliders: 0
+    useSRGBMaterialColor: 1
+    importVisibility: 1
+    importBlendShapes: 1
+    importCameras: 1
+    importLights: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    keepQuads: 0
+    weldVertices: 1
+    preserveHierarchy: 0
+    indexFormat: 0
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+    previousCalculatedGlobalScale: 1
+    hasPreviousCalculatedGlobalScale: 0
+  tangentSpace:
+    normalSmoothAngle: 60
+    normalImportMode: 0
+    tangentImportMode: 3
+    normalCalculationMode: 4
+    legacyComputeAllNormalsFromSmoothingGroupsWhenMeshHasBlendShapes: 0
+    blendShapeNormalImportMode: 1
+    normalSmoothingSource: 0
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    serializedVersion: 2
+    human: []
+    skeleton: []
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    rootMotionBoneName: 
+    hasTranslationDoF: 0
+    hasExtraRoot: 0
+    skeletonHasParents: 1
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 0
+  humanoidOversampling: 1
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
