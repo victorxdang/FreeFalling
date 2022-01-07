@@ -1,4 +1,4 @@
-# Breaking Walls
+# Free Falling
  
 
 A casual "endless runner" game that takes a different twist. Instead of going forward, the player will fall downwards into an endless void. Fall through the rings to get points, and remember, different color gives different amount of points.
